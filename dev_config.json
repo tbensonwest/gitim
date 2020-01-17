@@ -1,0 +1,8 @@
+{
+    "github_token": "81f62a0a64081489a94741abc49afaa32081aea8",
+    "hostname": "github.je-labs.com",
+    "org": "DatabaseReliabilityEngineering",
+    "dest": "/home/tarran/winhome/Github",
+    "ssh": "True",
+    "nopull": "True"
+}
